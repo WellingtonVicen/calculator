@@ -10,4 +10,4 @@ new _vue["default"]({
   render: function render(h) {
     return h(_App["default"]);
   }
-}).$mount('#app');
+}).$mount("#app");
